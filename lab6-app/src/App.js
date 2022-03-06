@@ -76,7 +76,7 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://web.cs.dal.ca/~yuxuanw/csci3172/lab6/l6_wang_yuxuan"
+          href="https://lab6-yuxuan.herokuapp.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
